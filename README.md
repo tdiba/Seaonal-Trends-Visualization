@@ -1,4 +1,4 @@
-# Seaonal-Trends-Visualization
+# Seasonal-Trends-Visualization
 
 
 ## Table of Contents
